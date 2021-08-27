@@ -1,0 +1,14 @@
+C:\Users\megam\source\repos\TwelveWeights\TwelveWeights\bin\Debug\netcoreapp3.1\TwelveWeights.exe
+C:\Users\megam\source\repos\TwelveWeights\TwelveWeights\bin\Debug\netcoreapp3.1\TwelveWeights.deps.json
+C:\Users\megam\source\repos\TwelveWeights\TwelveWeights\bin\Debug\netcoreapp3.1\TwelveWeights.runtimeconfig.json
+C:\Users\megam\source\repos\TwelveWeights\TwelveWeights\bin\Debug\netcoreapp3.1\TwelveWeights.runtimeconfig.dev.json
+C:\Users\megam\source\repos\TwelveWeights\TwelveWeights\bin\Debug\netcoreapp3.1\TwelveWeights.dll
+C:\Users\megam\source\repos\TwelveWeights\TwelveWeights\bin\Debug\netcoreapp3.1\TwelveWeights.pdb
+C:\Users\megam\source\repos\TwelveWeights\TwelveWeights\obj\Debug\netcoreapp3.1\TwelveWeights.csproj.AssemblyReference.cache
+C:\Users\megam\source\repos\TwelveWeights\TwelveWeights\obj\Debug\netcoreapp3.1\TwelveWeights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\megam\source\repos\TwelveWeights\TwelveWeights\obj\Debug\netcoreapp3.1\TwelveWeights.AssemblyInfoInputs.cache
+C:\Users\megam\source\repos\TwelveWeights\TwelveWeights\obj\Debug\netcoreapp3.1\TwelveWeights.AssemblyInfo.cs
+C:\Users\megam\source\repos\TwelveWeights\TwelveWeights\obj\Debug\netcoreapp3.1\TwelveWeights.csproj.CoreCompileInputs.cache
+C:\Users\megam\source\repos\TwelveWeights\TwelveWeights\obj\Debug\netcoreapp3.1\TwelveWeights.dll
+C:\Users\megam\source\repos\TwelveWeights\TwelveWeights\obj\Debug\netcoreapp3.1\TwelveWeights.pdb
+C:\Users\megam\source\repos\TwelveWeights\TwelveWeights\obj\Debug\netcoreapp3.1\TwelveWeights.genruntimeconfig.cache
