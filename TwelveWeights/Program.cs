@@ -66,16 +66,6 @@ namespace TwelveWeights
 
             //rounds++; //ERASE this commenting to make it loop
             //} //ERASE this commenting to make it a loop
-
-
-
-            //Printed out the weights to see if the randomization was working
-            /*
-            for (int i = 0; i < 12; i++ )
-            {
-                Console.WriteLine($"Weight {i+1} weighs {weights[i]}");
-            }
-            */
         }
 
 
