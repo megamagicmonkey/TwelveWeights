@@ -10,14 +10,20 @@ namespace TwelveWeights
         //Below are 12 weights. Currently, they weigh the same. Later, one weight chosen at random
         //will be assigned a random value that is NOT 100. Either above or below.
         //AT NO POINT WILL THE CODE YOU WRITE MODIFY THIS ARRAY
-        public static int[] weights = new int[] { 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100 };
+        public static int[] weights = new int[12];
         static void Main(string[] args)
         {
-            ChangeWeight(weights); //This changes a single weight to be either more or less than before
+            //int rounds = 0; //ERASE this commenting to make it a loop
+            //while (rounds < 100000){ //ERASE this commenting to make it a loop
+                for (int i = 0; i < 12; i++)
+                {
+                    weights[i] = 100;
+                }
+                ChangeWeight(weights); //This changes a single weight to be either more or less than before
 
-            string result = "";
-            var toLeftScale = new List<int>(); //use these to send weights to the left scale
-            var toRightScale = new List<int>(); //use these to send weights to the right scale
+                string result = "";
+                var toLeftScale = new List<int>(); //use these to send weights to the left scale
+                var toRightScale = new List<int>(); //use these to send weights to the right scale
             /*BalanceScale() is your scale. Send two lists, one for the left scale and one for the right.
             Calls should look like: result = BalanceScale(toLeftScale, toRightScale);
 
@@ -44,7 +50,7 @@ namespace TwelveWeights
             You won't need additional variables, but you're welcome to use them.
             See if you can finish without creating additional Console.WriteLine();!
             */
-            
+
 
             //====YOUR CODE BELOW====
 
@@ -55,7 +61,12 @@ namespace TwelveWeights
 
             //====YOUR CODE ABOVE====
 
-            //BONUS: To make extra sure your code works in all cases, wrap all of the contents of main() in a for loop that runs 100 times!
+            //BONUS: To make extra sure your code works in all cases, erase the commenting in the ERASE lines.
+
+
+            //rounds++; //ERASE this commenting to make it loop
+            //} //ERASE this commenting to make it a loop
+
 
 
             //Printed out the weights to see if the randomization was working

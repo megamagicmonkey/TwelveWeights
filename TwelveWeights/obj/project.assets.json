@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\megam\\source\\repos\\TwelveWeights\\TwelveWeights\\TwelveWeights.csproj",
+      "projectUniqueName": "C:\\Users\\megam\\repos\\TwelveWeights\\TwelveWeights\\TwelveWeights.csproj",
       "projectName": "TwelveWeights",
-      "projectPath": "C:\\Users\\megam\\source\\repos\\TwelveWeights\\TwelveWeights\\TwelveWeights.csproj",
+      "projectPath": "C:\\Users\\megam\\repos\\TwelveWeights\\TwelveWeights\\TwelveWeights.csproj",
       "packagesPath": "C:\\Users\\megam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\megam\\source\\repos\\TwelveWeights\\TwelveWeights\\obj\\",
+      "outputPath": "C:\\Users\\megam\\repos\\TwelveWeights\\TwelveWeights\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\megam\\AppData\\Roaming\\NuGet\\NuGet.Config",
